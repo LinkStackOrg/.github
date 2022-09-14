@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://littlelink-custom.com/"><img src="../profile/img/title.png" alt="LittleLink Custom"></a>
+  <a href="https://littlelink-custom.com/"><img src="/profile/img/title.png" alt="LittleLink Custom"></a>
 </h1>
 
 <h4 align="center">The plug-and-play approach to LittleLink, with advanced features. <br> <i> The open-source alternative to LinkTree and similar. </i></h4>
 <p align="center">
-  <a href="https://littlelink-custom.com/blog"><img src="../profile/img/read_blog.png" alt="Blog" width="250" ></a><a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
-  <a href="https://demo.littlelink-custom.com"><img src="../profile/img/live_demo.png" alt="Live Demo" width="250" ></a>
+  <a href="https://littlelink-custom.com/blog"><img src="/profile/img/read_blog.png" alt="Blog" width="250" ></a><a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+  <a href="https://demo.littlelink-custom.com"><img src="/profile/img/live_demo.png" alt="Live Demo" width="250" ></a>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/llc-docker#readme"><img src="../profile/img/docker_version.png" alt="Download latest" width="220" ></a>
+  <a href="https://github.com/JulianPrieber/llc-docker#readme"><img src="/profile/img/docker_version.png" alt="Download latest" width="220" ></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="../profile/img/download_latest.png" alt="Download latest" width="280" ></a>
+  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="/profile/img/download_latest.png" alt="Download latest" width="280" ></a>
 </p>
