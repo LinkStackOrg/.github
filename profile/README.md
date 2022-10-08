@@ -12,7 +12,12 @@
 <p align="center">
 <a href="https://github.com/JulianPrieber/littlelink-custom/stargazers"><img src="https://img.shields.io/github/stars/julianprieber/littlelink-custom?logo=github&style=flat&logo=appveyor&label=Star%20the%20project"></img></a>
 <a href="https://hub.docker.com/r/julianprieber/littlelink-custom"><img src="https://img.shields.io/docker/stars/julianprieber/littlelink-custom?&style=flat&logo=appveyor&label=Docker%20hub"></img></a>
+<br><br>
 <a href="https://discord.littlelink-custom.com"><img src="https://img.shields.io/discord/955765706111193118?color=4A55CC&label=Discord&logo=discord&style=flat&logo=appveyor"></img></a>
+<br>
+<a href="https://mstdn.social/@littlelink_custom"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109003317067542220?domain=http%3A%2F%2Fmstdn.social&style=social"></a>
+<a href="https://twitter.com/ll_custom"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ll_custom?style=social"></a>
+<br><br>
 <a href="https://github.com/sponsors/julianprieber"><img src="https://img.shields.io/github/sponsors/JulianPrieber?color=BF4B8A&logo=githubsponsors&style=flat&logo=appveyor=Sponsor%20on%20Github"></img></a>
 <a href="https://patreon.com/julianprieber"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Djulianprieber%26type%3Dpatrons&style=flat&logo=appveyor"></img></a>
 </p>
@@ -20,9 +25,14 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/llc-docker#readme"><img src="/profile/img/docker_version.png" alt="Download latest" width="220" ></a>
+  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="/profile/img/download_latest.png" alt="Download latest" width="280" ></a>
+	<br>
+	<a href="https://github.com/JulianPrieber/littlelink-custom/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/JulianPrieber/LittleLink-Custom?label=Latest%20release"></a>
+	<br>
+	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/JulianPrieber/LittleLink-Custom/total?style=for-the-badge">
+	<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/JulianPrieber/LittleLink-Custom/latest/total?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="/profile/img/download_latest.png" alt="Download latest" width="280" ></a>
+  <a href="https://github.com/JulianPrieber/llc-docker#readme"><img src="/profile/img/docker_version.png" alt="Download latest" width="220" ></a>
 </p>
