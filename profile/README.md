@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://littlelink-custom.com/"><img src="/profile/img/title.png" alt="LittleLink Custom"></a>
+  <a href="https://littlelink-custom.com/"><img src="https://raw.githubusercontent.com/LittleLink-Custom/branding/main/banners/png/banner_wide_transparent.png" alt="LittleLink Custom"></a>
 </h1>
 
 <h4 align="center">The plug-and-play approach to LittleLink, with advanced features. <br> <i> The open-source alternative to LinkTree and similar. </i></h4>
 <p align="center">
-  <a href="https://littlelink-custom.com/blog"><img src="/profile/img/read_blog.png" alt="Blog" width="250" ></a><a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
-  <a href="https://demo.littlelink-custom.com"><img src="/profile/img/live_demo.png" alt="Live Demo" width="250" ></a>
+  <a href="https://littlelink-custom.com/blog"><img src="https://raw.githubusercontent.com/LittleLink-Custom/branding/main/badges/read_blog.png" alt="Blog" width="250" ></a><a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+  <a href="https://demo.littlelink-custom.com"><img src="https://raw.githubusercontent.com/LittleLink-Custom/branding/main/badges/live_demo.png" alt="Live Demo" width="250" ></a>
 </p>
 
 <br>
@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="/profile/img/download_latest.png" alt="Download latest" width="280" ></a>
+  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="https://raw.githubusercontent.com/LittleLink-Custom/branding/main/badges/download_latest.png" alt="Download latest" width="280" ></a>
 	<br><br>
 	<a href="https://github.com/JulianPrieber/littlelink-custom/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/JulianPrieber/LittleLink-Custom?label=Latest%20release"></a>
 	<br>
@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/llc-docker#readme"><img alt="Docker version" src="/profile/img/docker_version.png" alt="Download latest" width="220" ></a>
+  <a href="https://github.com/JulianPrieber/llc-docker#readme"><img alt="Docker version" src="https://raw.githubusercontent.com/LittleLink-Custom/branding/main/badges/docker_version.png" alt="Download latest" width="220" ></a>
   <br>
   <a href="https://hub.docker.com/r/julianprieber/littlelink-custom"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/julianprieber/littlelink-custom?label=Docker%20pulls&logo=docker"></a>
 </p>
