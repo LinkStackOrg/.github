@@ -17,6 +17,7 @@
 </p>
 <p align="center">
 <a href="https://discord.littlelink-custom.com"><img alt="Discord online user count" src="https://img.shields.io/discord/955765706111193118?color=4A55CC&label=Discord&logo=Discord&style=flat"></a>
+<a href="https://matrix.to/#/#LittleLinkCustom:matrix.org"><img alt="Matrix user count" src="https://img.shields.io/matrix/LittleLinkCustom:matrix.org?color=%23ffffff&label=Matrix&logo=Matrix"></a>
 <br>
 <a href="https://mstdn.social/@littlelink_custom"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109003317067542220?domain=http%3A%2F%2Fmstdn.social&style=social"></a>
 <a href="https://twitter.com/ll_custom"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ll_custom?style=social"></a>
