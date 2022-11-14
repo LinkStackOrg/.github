@@ -19,7 +19,7 @@
 <a href="https://discord.littlelink-custom.com"><img alt="Discord online user count" src="https://img.llc.ovh/discord/955765706111193118?color=4A55CC&label=Discord&logo=Discord&style=flat"></a>
 <a href="https://matrix.littlelink-custom.com"><img alt="Matrix user count" src="https://img.llc.ovh/matrix/LittleLinkCustom:matrix.org?color=%23ffffff&label=Matrix&logo=Matrix"></a>
 <br>
-<a href="https://mstdn.social/@littlelink_custom"><img alt="Mastodon Follow" src="https://img.llc.ovh/mastodon/follow/109003317067542220?domain=http%3A%2F%2Fmstdn.social&style=social"></a>
+<a rel="me" href="https://mstdn.social/@littlelink_custom"><img alt="Mastodon Follow" src="https://img.llc.ovh/mastodon/follow/109003317067542220?domain=http%3A%2F%2Fmstdn.social&style=social"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sponsors/julianprieber"><img alt="GitHub spomsors" src="https://img.llc.ovh/github/sponsors/JulianPrieber?color=BF4B8A&logo=githubsponsors&style=flat&label=Sponsor%20us%20on%20Github"></a>
