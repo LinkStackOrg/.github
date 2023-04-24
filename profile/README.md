@@ -1,4 +1,4 @@
-<a href="https://linkstack.org/">
+<a href="https://linkstack.org/" target="_blank">
 <p align="center">
   <img width="200px" src="https://linkstack.org/wp-content/uploads/2023/04/logo-animated.svg"><br>
 <picture>
