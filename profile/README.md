@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/JulianPrieber/littlelink-custom/stargazers"><img alt="GitHub Repo stars" src="https://img.llc.ovh/github/stars/julianprieber/littlelink-custom?label=Star%20the%20project&logo=GitHub"></a>
-<a href="https://mstdn.social/@littlelink_custom"><img alt="Mastodon Follow" src="https://img.llc.ovh/mastodon/follow/109003317067542220?domain=http%3A%2F%2Fmstdn.social&style=social"></a>
+<a href="https://mstdn.social/@linkstack"><img alt="Mastodon Follow" src="https://img.llc.ovh/mastodon/follow/110147874401985724?domain=http%3A%2F%2Fmstdn.social&style=social"></a>
 <a href="https://discord.littlelink-custom.com"><img alt="Discord online user count" src="https://img.llc.ovh/discord/955765706111193118?color=4A55CC&label=Discord&logo=Discord&style=flat"></a>
 </p>
 <p align="center">
