@@ -1,3 +1,4 @@
+<a href="https://linkstack.org/">
 <p align="center">
   <img width="200px" src="https://linkstack.org/wp-content/uploads/2023/04/logo-animated.svg"><br>
 <picture>
@@ -5,6 +6,7 @@
   <img width="400px" src="https://i.imgur.com/UBB5Edb.png">
 </picture>
 </p>
+</a>
 
 <h3 align="center"><b>Open-Source Linktree Alternative</b></h3>
 
