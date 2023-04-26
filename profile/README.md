@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/littlelink-custom/releases/latest/download/littlelink-custom.zip"><img src="https://i.imgur.com/GZvrPEm.png" alt="Download latest" width="300" ></a>
+  <a href="https://github.com/linkstackorg/linkstack/releases/latest/download/linkstack.zip"><img src="https://i.imgur.com/GZvrPEm.png" alt="Download latest" width="300" ></a>
     <br>
 	<a href="https://github.com/JulianPrieber/littlelink-custom/releases"><img alt="GitHub release (latest by date)" src="https://img.llc.ovh/github/v/release/JulianPrieber/LittleLink-Custom?label=Latest%20release"></a>
 </p>
