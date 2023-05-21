@@ -2,8 +2,9 @@
 <p align="center">
   <img width="200px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/svg/logo_animated.svg"><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" width="400px" srcset="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/website_light.png">
-  <img width="400px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/website_dark.png">
+<br><br>
+  <source media="(prefers-color-scheme: dark)" width="400px" srcset="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/png/wordmark_light.png">
+  <img width="400px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/png/wordmark_dark.png">
 </picture>
 </p>
 </a>
